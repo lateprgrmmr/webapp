@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@types/massive": "^5.4.7",
+    "dotenv": "^17.0.0",
+    "massive": "^6.11.3"
+  }
+}
